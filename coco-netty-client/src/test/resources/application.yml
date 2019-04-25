@@ -1,0 +1,7 @@
+
+coco:
+  netty:
+    client:
+      ip-port: 10.213.4.176:10010
+
+

@@ -1,0 +1,12 @@
+{
+  "groups": [
+  ],
+  "properties": [
+    {
+      "name": "coco.netty.client.ip-port",
+      "type": "java.lang.String",
+      "description": "Description for coco.netty.client.ip-port."
+    }
+  ],
+  "hints": []
+}

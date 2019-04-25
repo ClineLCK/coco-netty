@@ -1,0 +1,4 @@
+coco:
+  netty:
+    server:
+      work-group-num: 10

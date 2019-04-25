@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.nfsq.framework.coco.server.configuration.CocoNettyServerAutoConfigure
